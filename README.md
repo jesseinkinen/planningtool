@@ -7,6 +7,7 @@ Table of Contents:
 2. Usage
 3. Credits
 4. License
+------------------------------------------------
 
 1. Installation
 
